@@ -6,4 +6,6 @@ Deployed using Serverless framework.
 
 API gateway manual configuration using LAMBDA PROXY
 
-https://50e3nud6oi.execute-api.us-east-1.amazonaws.com/prod
+https://50e3nud6oi.execute-api.us-east-1.amazonaws.com/
+
+![API flow](flow.png)
